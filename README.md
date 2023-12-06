@@ -1,4 +1,4 @@
-_# Felyx data access for UvA students
+# Felyx data access for UvA students
 
 ## Introduction
 
